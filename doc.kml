@@ -164,7 +164,7 @@
 		<SimpleData name="TCSPD">9999</SimpleData>
 		<SimpleData name="TIMEZONE">AST</SimpleData>
 		<SimpleData name="VALIDTIME">22/1200</SimpleData>
-	</SchemaData></ExtendedData>
+	</SchemaData></ExtendedData> 
       <Point><coordinates>-71.0,22.4</coordinates></Point>
   </Placemark>
   <Placemark>
